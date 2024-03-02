@@ -1,0 +1,20 @@
+var name = "akshata";
+var school = "masai School";
+var grade = "A";
+var section = "C";
+var rollno = "28";
+var maths = "90";
+var science = "80";
+var english = "70";
+console.log("****📰Report card of the student📰****");
+console.log("name:" + " " + name);
+console.log("school:" + " " + school);
+console.log("section:" + " " + section);
+console.log("rollno:" + " " + rollno);
+console.log("****Marks Scored****");
+console.log("maths:" + " " + maths);
+console.log("science:" + " " + science);
+console.log("english:" + " " + english);
+console.log("****Grade of the student****");
+console.log("🅰");
+
